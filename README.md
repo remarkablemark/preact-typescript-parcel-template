@@ -1,6 +1,6 @@
-# react-typescript-parcel-template
+# preact-typescript-parcel-template
 
-React TypeScript Parcel Template.
+Preact TypeScript Parcel Template.
 
 ## Prerequisites
 
@@ -11,8 +11,8 @@ React TypeScript Parcel Template.
 Clone the repository:
 
 ```sh
-git clone https://github.com/remarkablemark/react-typescript-parcel-template.git
-cd react-typescript-parcel-template
+git clone https://github.com/remarkablemark/preact-typescript-parcel-template.git
+cd preact-typescript-parcel-template
 ```
 
 Install the dependencies:
