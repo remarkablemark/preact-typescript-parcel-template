@@ -16,7 +16,7 @@
   "homepage": "https://remarkablemark.org/preact-typescript-parcel-template/",
   "devDependencies": {
     "@commitlint/cli": "18.6.1",
-    "@commitlint/config-conventional": "18.6.2",
+    "@commitlint/config-conventional": "19.0.0",
     "@parcel/packager-raw-url": "2.11.0",
     "@parcel/transformer-webmanifest": "2.11.0",
     "@typescript-eslint/eslint-plugin": "7.1.0",
