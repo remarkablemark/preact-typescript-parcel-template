@@ -28,7 +28,7 @@
     "parcel": "2.12.0",
     "preact": "10.19.7",
     "prettier": "3.2.5",
-    "typescript": "5.4.2"
+    "typescript": "5.4.3"
   },
   "private": true,
   "license": "MIT",
