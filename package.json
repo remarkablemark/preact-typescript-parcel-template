@@ -30,7 +30,7 @@
     "lint-staged": "15.2.10",
     "parcel": "2.13.2",
     "preact": "10.25.1",
-    "prettier": "3.4.1",
+    "prettier": "3.4.2",
     "typescript": "5.7.2"
   },
   "private": true,
