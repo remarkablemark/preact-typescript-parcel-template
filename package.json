@@ -27,7 +27,7 @@
     "eslint": "9.16.0",
     "eslint-plugin-prettier": "5.2.1",
     "husky": "9.1.7",
-    "lint-staged": "15.2.10",
+    "lint-staged": "15.2.11",
     "parcel": "2.13.2",
     "preact": "10.25.1",
     "prettier": "3.4.2",
