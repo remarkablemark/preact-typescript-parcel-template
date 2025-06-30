@@ -24,7 +24,7 @@
     "@parcel/transformer-webmanifest": "2.15.4",
     "@typescript-eslint/eslint-plugin": "8.35.0",
     "@typescript-eslint/parser": "8.35.0",
-    "eslint": "9.29.0",
+    "eslint": "9.30.0",
     "eslint-plugin-prettier": "5.5.1",
     "husky": "9.1.7",
     "lint-staged": "16.1.2",
