@@ -29,7 +29,7 @@
     "husky": "9.1.7",
     "lint-staged": "16.1.5",
     "parcel": "2.15.4",
-    "preact": "10.27.0",
+    "preact": "10.27.1",
     "prettier": "3.6.2",
     "typescript": "5.9.2"
   },
